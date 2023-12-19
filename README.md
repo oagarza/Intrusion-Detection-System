@@ -55,5 +55,5 @@ Acknowledgments
 
 Contact
 
-For any inquiries or contributions, please contact Andrew at deno@astudent.uiwtx.edu
+For any inquiries or contributions, please contact Osvaldo at oagarza12@gmail.com
 .
