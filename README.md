@@ -1,3 +1,4 @@
+# Intrusion-Detection-System
 Our project was initiated to tackle the intricate security challenges presented by mesh networks. The goal was to develop an Intrusion Detection System (IDS) tailored to the unique dynamics of these decentralized, wireless environments. By integrating advanced cybersecurity methodologies and artificial intelligence, we aimed to establish a proactive defense mechanism proficient in detecting, analyzing, and neutralizing threats in real-time.
 
 Mesh networks are known for their robust and adaptable communication features but also introduce a new array of cybersecurity vulnerabilities due to their distributed nature and reliance on wireless connectivity. In response to the growing need for effective security solutions within this context, our project sought to create a sophisticated security framework capable of adapting to and safeguarding against the specific vulnerabilities inherent to mesh networks.
